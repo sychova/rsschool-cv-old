@@ -1,5 +1,5 @@
 # Anastasiya Sychova
-![Profile image should go here](images/profile_img.jpg)
+![Profile image should go here](images/profile_img.PNG)
 
 ## Personal information:
 * Date/Place of birth: 05.02.1991 / Republic of Belarus, Minsk
