@@ -42,9 +42,9 @@
 * Handle multiple tasks and deadlines successfully.
 
 ## Working experience:
-**Company:** AIS Novations
-**Dates:** 28.10.2016 - today
-**Position:**
+**Company:** AIS Novations a\
+**Dates:** 28.10.2016 - today a\
+**Position:** a\
 * **28.10.2016 - 31.10.2018** QA Engineer
     * *Responsibilities*
         * Writing up comprehensive and detailed test plans, test cases, executing test runs;
@@ -62,9 +62,9 @@
         * Submitting the new/revised requirements into the Specification, breaking it down between the affected modules.
         * Analyzing new features from the QA standpoint, assessing the extent of potentially required regression testing.
 
-**Company:** OJSC “Paritetbank”
-**Dates:** 15.09.2014 - 14.09.2016
-**Position:** Specialist of International Operations Department
+**Company:** OJSC “Paritetbank” a\
+**Dates:** 15.09.2014 - 14.09.2016 a\
+**Position:** Specialist of International Operations Department a\
 *Responsibilities*
 * Establishing and developing relations with national and foreign financial institutions.
 * Managing the process of signing (negotiating, elaborating) general agreements on conducting interbank financial operations on money market with counterparty banks, correspondent relations agreements (NOSTRO/LORO), further support of the agreements.
@@ -77,10 +77,10 @@
 * Carrying out AML/CFT & KYC procedures within the department’s field of activity.
 * Coordination of other bank’s units within the framework of cooperation with financial institutions.
 
-**Company:** OJSC “BPS-Sberbank”
-**Dates:** 02.2014 - 05.2014
+**Company:** OJSC “BPS-Sberbank” a\
+**Dates:** 02.2014 - 05.2014 a\
 **Position:** Intern
 
-**Company:** OJSC “BPS-Sberbank”
-**Dates:** 10.2012 - 11.2012
+**Company:** OJSC “BPS-Sberbank” a\
+**Dates:** 10.2012 - 11.2012 a\
 **Position:** Intern
