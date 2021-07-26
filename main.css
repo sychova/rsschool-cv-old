@@ -5,17 +5,23 @@ header {
     left: 0;
     width: 100%;
     text-align: center;
-    color: #FFFFFF;
+    color: #ffffff;
     background-image: url(images/background.jpg);
 }
 
-h1.header {
+h1,
+h2.title {
     margin: 0;
+    text-align: center;
+    text-transform: uppercase;
 }
 
-h3.header {
-    padding: 15px;
-    margin: 0;
+h3.sub-title {
+    margin: 10px 0 10px;
+}
+
+article h3 {
+    color: #e2783f;
 }
 
 .avatar {
@@ -31,6 +37,55 @@ nav a {
     font-size: 1.2rem;
     text-decoration: none;
     color: #183052;
+}
+
+.content-wrapper {
+    margin: 448px 50px 0;
+}
+
+.content-column .sub-title {
+    font-size: 25px;
+}
+
+.content-row {
+    display: flex;
+}
+
+.content-column {
+    flex: 50%;
+    padding: 10px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 40%;
+    margin: 10px 10px 70px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    font-weight: bold;
+}
+
+li {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+article .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 95%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f8d562;
 }
 
 footer {
