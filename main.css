@@ -23,14 +23,24 @@ h3.header {
     border-radius: 50%;
 }
 
+header nav {
+    background-color: #efc94c;
+}
+
+nav a {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #183052;
+}
+
 footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-color: #235065;
-    /* background: linear-gradient(to top, #183052, #ffffff); */
+    /* background-color: #45b29c; */
+    background: linear-gradient(to top, #45b29c, #ffffff);
 }
 
 footer img {
