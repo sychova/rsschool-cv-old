@@ -1,5 +1,9 @@
-.container {
-    position: relative;
+header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
     text-align: center;
     color: #FFFFFF;
     background-image: url(images/background.jpg);
@@ -17,4 +21,18 @@ h3.header {
 .avatar {
     padding: 30px;
     border-radius: 50%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #235065;
+    /* background: linear-gradient(to top, #183052, #ffffff); */
+}
+
+footer img {
+    margin: 15px;
 }
