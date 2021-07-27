@@ -24,8 +24,20 @@ article h3 {
     color: #e2783f;
 }
 
-.avatar {
+
+/* .avatar {
     padding: 30px;
+    border-radius: 50%;
+} */
+
+.avatar {
+    height: auto;
+    /* Magic! */
+    max-width: 100%;
+}
+
+.avatar img {
+    /* max-width: 100%; */
     border-radius: 50%;
 }
 
@@ -40,7 +52,7 @@ nav a {
 }
 
 .content-wrapper {
-    margin: 448px 50px 0;
+    margin: 459px 50px 0;
 }
 
 .content-column .sub-title {
